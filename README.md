@@ -23,7 +23,7 @@ example scripts (essentially the data-handling).
 ### Installation
 This repository contains an installable python-package structure which can be 
 installed by pip via 
-`pip install git+https://github.com/justusschock/delira-unet-baseline`
+`pip install git+https://github.com/justusperillieux/delira-unet-baseline`
 
 
 ## Remaining ToDos:
