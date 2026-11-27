@@ -32,7 +32,7 @@ setup(
     name='unet',
     version=versioneer.get_version(),
     cmdclass=versioneer.get_cmdclass(),
-    url='https://github.com/justusschock/delira-unet-baseline',
+    url='https://github.com/justusperillieux/delira-unet-baseline',
     test_suite="unittest",
     long_description=readme,
     long_description_content_type='text/markdown',
